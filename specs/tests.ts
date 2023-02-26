@@ -1,6 +1,6 @@
 import assert from 'assert';
 import fs from 'fs';
-import {decoder} from '../decoder';
+import { decoder } from '../decoder';
 import { encoder } from '../encoder';
 
 const tests = [
